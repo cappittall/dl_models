@@ -46,9 +46,10 @@
 
 #6 all4one
 # https://drive.google.com/file/d/1a5NxQVQL4m7ig2Z1BvnEZF9G-rwrTwTN/view?usp=sharing
+# https://drive.google.com/file/d/1x593z2VqM4Adk4Buj7tHc3oRTlXagG4Z/view?usp=sharing
 
 # google gmail: ecyyzvjnqmmssmyk
 
 wget --no-check-certificate \
-'https://docs.google.com/uc?export=download&id=1a5NxQVQL4m7ig2Z1BvnEZF9G-rwrTwTN' \
--O /usr/share/edgetpudemo/all4one.tflite 
+'https://docs.google.com/uc?export=download&id=1x593z2VqM4Adk4Buj7tHc3oRTlXagG4Z' \
+-O /usr/share/edgetpudemo/all4one_edgetpu.tflite 
