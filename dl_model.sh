@@ -47,6 +47,8 @@
 #6 all4one
 # https://drive.google.com/file/d/1a5NxQVQL4m7ig2Z1BvnEZF9G-rwrTwTN/view?usp=sharing
 
+# google gmail: ecyyzvjnqmmssmyk
+
 wget --no-check-certificate \
 'https://docs.google.com/uc?export=download&id=1a5NxQVQL4m7ig2Z1BvnEZF9G-rwrTwTN' \
 -O /usr/share/edgetpudemo/all4one.tflite 
